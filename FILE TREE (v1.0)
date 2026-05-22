@@ -1,0 +1,31 @@
+Everlight-opening-sequence/
+│
+├── README.md
+│
+├── sequences/
+│   ├── sequence-00-first-line.md
+│   ├── sequence-01-architect-entrance.md
+│   ├── sequence-02-realm-map-reveal.md
+│   ├── sequence-02-5-earth-pong-microcell.md
+│   ├── sequence-03-codex-awakening.md
+│   └── sequence-04-avatar-selection-chamber.md
+│
+├── visuals/
+│   ├── blueprint-grid-reference.md
+│   ├── realm-design-guide.md
+│   ├── architect-design-sheet.md
+│   ├── pong-earth-concept.md
+│   └── colour-language.md
+│
+├── lore/
+│   ├── blueprint-universe-overview.md
+│   ├── realm-architecture.md
+│   ├── codex-layer.md
+│   ├── avatar-system.md
+│   └── cosmic-forces.md
+│
+└── tech/
+    ├── microcell-spec.md
+    ├── cinematic-timing.md
+    ├── animation-notes.md
+    └── interaction-bridge.md
