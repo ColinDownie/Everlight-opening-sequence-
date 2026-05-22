@@ -1,0 +1,36 @@
+# Microcell Specification
+
+Defines the behaviour of the PONG-Earth simulation cell:
+
+- Ball physics  
+- Paddle behaviour  
+- Grid interaction  
+- Frequency response  
+- Visual effects  
+# Cinematic Timing
+
+Frame-by-frame timing for all sequences:
+
+- Duration  
+- Transitions  
+- Camera moves  
+- Frequency pulses  
+- Realm ignition timings  
+# Animation Notes
+
+Guidelines for:
+
+- Grid behaviour  
+- Glyph motion  
+- Realm transitions  
+- Architect gestures  
+- Particle systems  
+# Interaction Bridge
+
+Defines how the cinematic transitions into gameplay:
+
+- Camera descent  
+- Grid lock-in  
+- Paddle activation  
+- Earth-ball spawn  
+- Player control handoff  
